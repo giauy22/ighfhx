@@ -1,8 +1,0 @@
-<html>
-   <head>
-       <title> giauy.com </title>
-   </head>
-   <body>
-       <h1> tôi tên là gia uy </h1>
-   </body>
-   </htmL>
